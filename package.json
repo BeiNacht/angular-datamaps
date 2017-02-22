@@ -43,5 +43,9 @@
     "karma-growl-reporter": "~0.1.1",
     "protractor": "~0.16.1",
     "ejs": "~0.8.4"
+  },
+  "dependencies": {
+    "datamaps": "^0.5.8",
+    "topojson": "^2.2.0"
   }
 }
